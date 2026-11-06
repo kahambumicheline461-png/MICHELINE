@@ -1,4 +1,4 @@
-👋 BONJOUR c'est MICHELINE !</h1>
+👋 BONJOUR c'est moi MICHELINE !</h1>
 
 <h3 align="center">
 Étudiante en informatique | Future développeuse web 💻
